@@ -7,12 +7,10 @@
     "start": "node index.js",
     "deploy": "node deploy-commands.js"
   },
-<<<<<<< HEAD
-=======
+
   "keywords": [],
   "author": "",
   "license": "ISC",
->>>>>>> a0b5e20b920dc880a0745da34a8840bf67b3c952
   "dependencies": {
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5"
